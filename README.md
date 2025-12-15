@@ -1,2 +1,4 @@
 # form-validation
-You are tasked with creating a simple registration form that consists of the following fields: Name, Email, and Password. When the user submits the form, perform real-time validation using JavaScript. Requirements:    • Validate that the Name field is not empty. Display an error message if the field is empty.  
+Registration Form Validation is a simple web application developed using HTML and JavaScript that demonstrates real-time form validation.
+The form includes Name, Email, and Password fields, each validated dynamically as the user types.
+The submit button remains disabled until all fields meet the validation criteria, ensuring accurate and secure user input before submission.
